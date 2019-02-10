@@ -1,0 +1,6 @@
+100dataset/
+models/
+tokenizer.pkl
+model.png
+features.pkl
+descriptions.txt
